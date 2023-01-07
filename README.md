@@ -1,8 +1,5 @@
-# Artic Tern Trip Management System
+# Trip Management System
 
-<p align="center">
-  <img width="360" height="400" src="https://user-images.githubusercontent.com/103634964/208469028-1faa67b8-598f-4031-a3b3-7dff8894f8de.jpg">
-</p>
 
 > We have developed this REST API for an Online Trip Management System. This API performs all the fundamental CRUD operations of any Trip Management Application platform with user validation at every step.
 > 
@@ -16,8 +13,6 @@
 >
 > It is a project on creating a RESTful API.
 >
-
-# 👉 [Click here](https://drive.google.com/file/d/1FeXkv7gNIABD_09mI0kZw80buA1UO6EJ/view?usp=sharing) to go through a detailed video explanation of this project.
 
 # Modules 
 
@@ -72,16 +67,6 @@
 
 - http://localhost:8088/
 - http://localhost:8088/swagger-ui/
-
-# Feedback
-> Valuable feedback will be appreciated.
-> You can reach out to us via LinkedIn.
-
-
-- [Piyush Tyagi](https://www.linkedin.com/in/piyush-tyagi-308930246/)
-- [Indrajit Paul](https://www.linkedin.com/in/indrajitpaul1996/)
-- [Shiv Kumar](https://www.linkedin.com/in/shiv-kumar-355a83216/)
-- [Jhulan Mahto](https://www.linkedin.com/in/jhulan-mahato/)
 
 
 
