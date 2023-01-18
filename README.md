@@ -14,7 +14,7 @@
 > It is a project on creating a RESTful API.
 >
 
-# 👉 [Click here](https://drive.google.com/file/d/1FeXkv7gNIABD_09mI0kZw80buA1UO6EJ/view?usp=sharing) to go through a detailed video explanation of this project.
+
 
 # Modules 
 
